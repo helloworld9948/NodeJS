@@ -20,7 +20,7 @@ At the end of the course, the student will be able to:
 - Design a single-page application using React.
 
 ## Exercises:
-1. Build a responsive web application for a shopping cart with registration, login, catalog, and cart pages using CSS3 features, flex, and grid.
+1. [Build a responsive web application for a shopping cart with registration, login, catalog, and cart pages using CSS3 features, flex, and grid.](https://github.com/helloworld9948/NodeJS/tree/main/Cart) <br> [(Visit Website Here)](https://helloworld9948.github.io/NodeJS/Cart/)
 2. Make the above web application a responsive web application using the Bootstrap framework.
 3. Use JavaScript for doing client-side validation of the pages implemented in experiments 1 and 2.
 4. Explore the features of ES6 like arrow functions, callbacks, promises, async/await. Implement an application for reading the weather information from openweathermap.org and display the information in the form of a graph on the web page.
